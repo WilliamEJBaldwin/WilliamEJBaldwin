@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WilliamEJBaldwin
-- 👀 I’m interested in ... learning mode coding.
+- 👀 I’m interested in ... learning coding.
 - 🌱 I’m currently learning ... JavaScript, HTML, and CSS.
 - 💞️ I’m looking to collaborate on ... web pages.
 - 📫 How to reach me ... use the GitHub email system please.
